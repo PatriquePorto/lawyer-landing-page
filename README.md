@@ -8,5 +8,5 @@ Projeto desenvolvido na semana FrontEnd do Matheus Batistti!
 
 
 <p align="left">
-  <img alt="App" src="./img/full-page.jpg" width="50%" height="30%">
+  <img alt="App" src="./img/full-page.jpeg" width="50%" height="30%">
 </p>
